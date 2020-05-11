@@ -1,0 +1,9 @@
+site_name: FreeTON Documetation
+repo_url: https://github.com/freeton-project/docs/
+repo_name: FreeTon Docs
+theme: readthedocs
+dev_addr: 0.0.0.0:8080
+nav:
+    - Home: index.md
+    - Deployment: deployment.md
+    - Tools and Scripts: tools.md
